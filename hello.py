@@ -15,4 +15,3 @@ tokyo_temp = get_weather(35.68, 139.69)
 
 print(f"Paris: {paris_temp}°C")
 print(f"London: {london_temp}°C")
-print(f"Tokyo: {tokyo_temp}°C")
